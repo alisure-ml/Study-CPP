@@ -1,0 +1,3 @@
+/mnt/4T/ALISURE/CPP/mycmake/build/CMakeFiles/rebuild_cache.dir
+/mnt/4T/ALISURE/CPP/mycmake/build/CMakeFiles/edit_cache.dir
+/mnt/4T/ALISURE/CPP/mycmake/build/CMakeFiles/cmakedemo.dir
